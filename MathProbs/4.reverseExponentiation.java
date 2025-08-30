@@ -1,6 +1,5 @@
 public class Solution {
     public int reverseExponentiation(int n) {
-        // code here
         int temp=n;
          int  rev=0;
          while(n!=0){
@@ -12,4 +11,5 @@ public class Solution {
          return pow;
         
     }
+
 }
